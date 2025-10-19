@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Backend</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <style name="MenuPopupBlackText" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+</resources>
